@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.card {
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-custom {
+    background-color: #007bff;
+    color: #ffffff;
+    transition: background 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #0056b3;
+}
+
+.flash-message {
+    margin-bottom: 20px;
+}
